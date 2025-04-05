@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Icarocontabil.com.br</title>
+  <style>
+    body { font-family: Arial, sans-serif; background-color: #fff; color: #000; margin: 0; padding: 0; }
+    header { background-color: #000; color: #FFD700; padding: 20px; text-align: center; }
+    nav { background-color: #FFD700; text-align: center; padding: 10px; }
+    nav a { color: #000; margin: 0 15px; text-decoration: none; font-weight: bold; }
+    section { padding: 20px; text-align: center; }
+    footer { background-color: #000; color: #fff; text-align: center; padding: 10px; }
+    .btn-whatsapp { display: inline-block; margin-top: 20px; background-color: #25D366; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; }
+    .price { font-size: 24px; color: #FFD700; }
+    .logo { max-width: 200px; display: block; margin: 0 auto 10px auto; }
+  </style>
+</head>
+<body>
+  <header>
+    <img src="https://i.imgur.com/sJ6e6vA.png" alt="Logo Icaro Contábil" class="logo">
+    <h1>Icarocontabil.com.br</h1>
+    <p>Soluções contábeis completas por apenas <span class="price">R$ 189,90/mês</span></p>
+  </header>
+  <nav>
+    <a href="#sobre">Sobre</a>
+    <a href="#servicos">Serviços</a>
+    <a href="#contato">Contato</a>
+  </nav>
+
+  <section id="sobre">
+    <h2>Sobre Nós</h2>
+    <p>Somos um escritório de contabilidade localizado em Esplanada, Bahia, com foco em pequenas empresas, MEIs e profissionais autônomos. Responsável Técnico: Icaro Vinício Lima Silveira.</p>
+  </section>
+
+  <section id="servicos">
+    <h2>Serviços</h2>
+    <ul>
+      <li>Abertura e legalização de empresas</li>
+      <li>Contabilidade para MEIs e pequenas empresas</li>
+      <li>Gestão fiscal e tributária</li>
+      <li>Folha de pagamento e departamento pessoal</li>
+      <li>Declaração de Imposto de Renda</li>
+    </ul>
+  </section>
+
+  <section id="contato">
+    <h2>Contato</h2>
+    <p>Email: icarocontabilltda@gmail.com</p>
+    <p>Telefone: (35) 99760-5520</p>
+    <p>Instagram: @icarocontabilltda</p>
+    <p>Facebook: Icaro Contábil Ltda</p>
+    <a class="btn-whatsapp" href="https://wa.me/5535997605520" target="_blank">Fale conosco no WhatsApp</a>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Icaro Contábil - Todos os direitos reservados.</p>
+  </footer>
+</body>
+</html>
